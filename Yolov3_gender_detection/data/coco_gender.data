@@ -1,0 +1,6 @@
+classes=2
+train=./data/coco_gender.txt
+valid=./data/coco_genderval.txt
+names=./data/coco_gender.names
+backup=backup/
+eval=coco
